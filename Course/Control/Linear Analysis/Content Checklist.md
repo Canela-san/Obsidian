@@ -1,0 +1,65 @@
+
+- [ ] Conceitos de Modelagem de Sistemas e Equações Diferenciais
+	- [ ] Modelagem de sistemas elétricos usando equações diferenciais
+	- [ ] Modelagem de sistemas mecânicos usando equações diferenciais
+	- [ ] Analogia entre sistemas mecânicos e elétricos
+	- [ ] Propriedades de sistemas dinâmicos
+- [ ] Transformada de Laplace
+	- [ ] Transformada de funções básicas
+	- [ ] Propriedades da transformada de Laplace
+	- [ ] A inversa da transformada de Laplace
+	- [ ] Resolução de equações diferenciais usando a transformada de Laplace
+	- [ ] Resposta a uma excitação qualquer
+	- [ ] Função de transferência
+	- [ ] Conceitos de estabilidade
+- [ ] Sistemas e Sinais Discreto
+	- [ ] Definição de alguns sinais discretos
+	- [ ] Propriedades de sinais discretos
+	- [ ] Sistemas dinâmicos discretos
+	- [ ] Propriedades de sistemas discretos
+- [ ] Transformada 
+	- [ ] Transformada de funções básicas
+	- [ ] Propriedades da transformada Z
+	- [ ] A inversa da transformada Z
+	- [ ] Resolução de equações de diferenças usando a transformada Z
+	- [ ] Resposta a uma excitação qualquer
+	- [ ] Função de transferência
+	- [ ] Conceitos de estabilidade
+	- [ ] Equivalente discreto da função de transferência contínua
+- [ ] Análise de Fourier
+	- [ ] Série de Fourier
+	- [ ] Transformada de Fourier
+	- [ ] Pseudo-transformada de Fourier
+	- [ ] Função de resposta em frequência
+	- [ ] Espectro e Aliasing
+- [ ] Análise no Espaço de Estado
+	- [ ] Representação no espaço de estado
+	- [ ] Solução homogênea da equação no espaço de estado
+	- [ ] Solução da equação no espaço de estado não homogênea
+	- [ ] Representação no espaço de estado: caso discreto
+	- [ ] Transformação de similaridade
+	- [ ] Polos e estabilidade assintótica
+	- [ ] Forma canônica controlável
+	- [ ] Forma canônica observável
+	- [ ] Forma canônica de Jordan
+	- [ ] Cancelamento de polos e zeros
+- [ ] Referências Bibliográficas
+	- [ ] Dinâmica, modelagem e vibrações
+	- [ ] Fundamentos matemáticos e equações diferenciais
+	- [ ] Análise linear e controle de sistemas dinâmicos
+	- [ ] Análise de Fourier
+- [ ] A Preliminares Matemáticos
+	- [ ] A.1 Funções de variáveis complexas
+	- [ ] A.2 Equações diferenciais ordinárias lineares
+	- [ ] A.3 Matriz fundamental
+	- [ ] A.4 Autovalores e autovetores
+	- [ ] A.5 Aproximação de Padé
+	- [ ] A.6 Inversa da transformada Z usando métodos computacionais
+	- [ ] A.7 Produto interno e normas de sinais
+	- [ ] A.8 Tabela de transformadas de Laplace
+	- [ ] A.9 Transformada bilateral de Laplace
+	- [ ] A.10 Operações básicas com diagramas de blocos
+	- [ ] A.11 Simplificação de diagramas de blocos
+	- [ ] A.12 Realização de sistemas dinâmicos
+	- [ ] A.13 Simulação numérica
+

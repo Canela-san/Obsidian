@@ -1,0 +1,25 @@
+---
+tags:
+  - Unicamp
+  - Cource
+  - Electrical
+---
+- [x]  Introdução aos Circuitos Digitais
+- [x]  Sistemas de Numeração e Representação Numérica
+	- [x] Sistemas Numéricos
+	- [x] Conversão de Bases
+	- [x] Números Binários Negativos
+	- [x] Ponto Flutuante
+- [x]  Portas Lógicas
+- [x]  álgebra de Booleana
+- [x]  Minimização de funções Booleanas
+- [ ]  Análise e Projeto de Circuitos Combinatórios
+- [ ]  Elementos de Armazenamento
+- [ ]  Registradores e Memórias
+- [ ]  Máquina de Estado
+- [ ]  Análise e Projeto de Circuitos Sequenciais
+- [ ]  Contadores
+- [ ]  Linguagem de Descrição de Hardware
+- [ ]  Simulação de Circuitos Digitais
+- [ ]  Dispositivos Lógico-Programáveis
+- [ ]  Laboratórios de programação em FPGA

@@ -1,0 +1,12 @@
+.theme-light .markdown-preview-view table,
+.theme-dark .markdown-preview-view table {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.theme-light .markdown-preview-view table th,
+.theme-dark .markdown-preview-view table th,
+.theme-light .markdown-preview-view table td,
+.theme-dark .markdown-preview-view table td {
+    text-align: center !important;
+}

@@ -1,0 +1,85 @@
+---
+tags:
+  - Unicamp
+  - Cource
+  - Control
+Nome: Análise Linear
+Código: ES601
+Cursado: 2024/2
+DAC: https://www.dac.unicamp.br/portal/caderno-de-horarios/2024/2/S/G/FEM/ES601
+Referência: http://www.fem.unicamp.br/~camino/CourseNotes/Apostila_ES601_Camino.pdf
+---
+Prerequisites:
+	[[Cálculo 3]]
+	[[Algebra Linear]]
+
+**Ementa:**
+Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Teorema da amostragem. Função de transferência. Análise de resposta em frequência de sistemas no tempo contínuo e no tempo discreto. Representação no espaço de estado. Realizações canônicas de funções de transferência. Solução temporal no espaço de estado. Estabilidade de sistemas contínuos e discretos. Conceitos básicos de controlabilidade e observabilidade.
+
+
+- [ ] Conceitos de Modelagem de Sistemas e Equações Diferenciais 
+	- [x] Modelagem de sistemas elétricos usando equações diferenciais
+	- [[Modelagem de Sistema Elétrico]]
+	- [x] Modelagem de sistemas mecânicos usando equações diferenciais 
+	- [[Modelagem de Sistemas Mecânicos]]
+	- [x] Analogia entre sistemas mecânicos e elétricos
+	- [ ] Propriedades de sistemas dinâmicos
+- [ ] Transformada de Laplace %% [[Laplace transform]] %%
+	- [ ] Transformada de funções básicas 
+	- [ ] Propriedades da transformada de Laplace
+	- [ ] A inversa da transformada de Laplace
+	- [ ] Resolução de equações diferenciais usando a transformada de Laplace
+	- [ ] Resposta a uma excitação qualquer
+	- [ ] Função de transferência
+	- [ ] Conceitos de estabilidade
+- [ ] Sistemas e Sinais Discreto
+	- [ ] Definição de alguns sinais discretos
+	- [ ] Propriedades de sinais discretos
+	- [ ] Sistemas dinâmicos discretos
+	- [ ] Propriedades de sistemas discretos
+- [ ] Transformada Z
+	- [ ] Transformada de funções básicas
+	- [ ] Propriedades da transformada Z
+	- [ ] A inversa da transformada Z
+	- [ ] Resolução de equações de diferenças usando a transformada Z
+	- [ ] Resposta a uma excitação qualquer
+	- [ ] Função de transferência
+	- [ ] Conceitos de estabilidade
+	- [ ] Equivalente discreto da função de transferência contínua
+- [ ] Análise de Fourier
+	- [ ] Série de Fourier
+	- [ ] Transformada de Fourier
+	- [ ] Pseudo-transformada de Fourier
+	- [ ] Função de resposta em frequência
+	- [ ] Espectro e Aliasing
+- [ ] Análise no Espaço de Estado
+	- [ ] Representação no espaço de estado
+	- [ ] Solução homogênea da equação no espaço de estado
+	- [ ] Solução da equação no espaço de estado não homogênea
+	- [ ] Representação no espaço de estado: caso discreto
+	- [ ] Transformação de similaridade
+	- [ ] Polos e estabilidade assintótica
+	- [ ] Forma canônica controlável
+	- [ ] Forma canônica observável
+	- [ ] Forma canônica de Jordan
+	- [ ] Cancelamento de polos e zeros
+- [ ] Referências Bibliográficas
+	- [ ] Dinâmica, modelagem e vibrações
+	- [ ] Fundamentos matemáticos e equações diferenciais
+	- [ ] Análise linear e controle de sistemas dinâmicos
+	- [ ] Análise de Fourier
+- [ ] A Preliminares Matemáticos
+	- [ ] A.1 Funções de variáveis complexas
+	- [ ] A.2 Equações diferenciais ordinárias lineares
+	- [ ] A.3 Matriz fundamental
+	- [ ] A.4 Autovalores e autovetores
+	- [ ] A.5 Aproximação de Padé
+	- [ ] A.6 Inversa da transformada Z usando métodos computacionais
+	- [ ] A.7 Produto interno e normas de sinais
+	- [x] A.8 Tabela de transformadas de Laplace [[Laplace Transform Table]]
+	- [ ] A.9 Transformada bilateral de Laplace
+	- [ ] A.10 Operações básicas com diagramas de blocos
+	- [ ] A.11 Simplificação de diagramas de blocos
+	- [ ] A.12 Realização de sistemas dinâmicos
+	- [ ] A.13 Simulação numérica
+

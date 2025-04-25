@@ -1,0 +1,33 @@
+# Gravitação
+- Força gravitacional pontual
+	- $\vec{F}=-\frac{GMm}{r^2}\hat{r}$
+- Força gravitacional interna em esfera, densidade constante:
+	- $\vec{F}=-\frac{GMmr}{R^3}\hat{r}$
+- Força gravitacional em um anel
+	- $\vec{F_{x}}=-\frac{s}{(s^2+R^2)^{3/2}}GMm\ \hat{x}$
+- Força gravitacional em um disco
+	- $\vec{F_{y}}=-\frac{2GMm}{R^2}\left[ 1- \frac{y}{\sqrt{ y^2+R^2 }} \right] \hat{y}$
+- Segunda lei de Kepler
+	- Tempo de trajeto é igual para áreas iguais.
+- Terceira lei de Kepler
+	- $\left( \frac{T^2}{r^2} \right)$ Proporcionalidade entre o período de orbita e distância ao sol.
+# Relatividade
+- Equações de Lorentz
+	- $\gamma=\frac{1}{\sqrt{ 1- \frac{v^2}{c^2} }}$
+	- $x_{b}=\gamma(x_{a}-vt_{a})$
+	- $v_{b}=\left( t_{a}-\frac{v}{c^2}x_{a} \right)$
+	- $L=\frac{1}{\gamma}L_{0}$
+	- $\Delta t=\gamma\Delta t_{0}$
+	- $\Delta S=(c^2\Delta t^2)-(\Delta x)^2-(\Delta y)^2-(\Delta z)^2$
+	- $P=\gamma m\vec{v}$
+	- $E^2=(Pc)^2+(mc^2)^2$
+# Mecânica dos Fluidos
+- Pressão
+	- $P=P_{atm}+\rho gh$
+- Bernoulli
+	- $P+ \frac{1}{2}\rho V^2+\rho gh$
+- Esvaziando um tanque cilíndrico
+	- $v=\sqrt{ 2gh }$
+	- $T=\left( \frac{D^2}{d^2} \right)\sqrt{ \frac{2h_{0}}{g} }$
+- Força Empuxo
+	- $F_{e}=\rho g\Delta V$   Volume Submerso

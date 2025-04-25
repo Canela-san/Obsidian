@@ -1,0 +1,15 @@
+/* Center tables on the page */
+body {
+    background-color: red;
+}
+
+.markdown-preview-view table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.markdown-preview-view table th,
+.markdown-preview-view table td {
+    text-align: center;
+}
+
