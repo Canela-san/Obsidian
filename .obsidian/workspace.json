@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
-                "mode": "source",
+                "file": "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Princípio Básico da Contagem"
+              "title": "Espaço Amostral e Eventos"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
+                "file": "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Princípio Básico da Contagem"
+              "title": "Outgoing links from Espaço Amostral e Eventos"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
+                "file": "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Princípio Básico da Contagem"
+              "title": "Outline of Espaço Amostral e Eventos"
             }
           },
           {
@@ -183,10 +183,13 @@
   },
   "active": "fc7c5337e2a7f746",
   "lastOpenFiles": [
+    "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
+    "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
+    "Course/Mathematics/MathJax.md",
+    "Course/Mathematics/Linear Algebra/Linear Algebra.md",
+    "Course/Mathematics/Pré Cálculo/Pre-Calculus.md",
     "Formulário.md",
     "README.md",
-    "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
-    "Course/Mathematics/Linear Algebra/Linear Algebra.md",
     "Course/Controle/Vibrações Mecânica/Vibrações de Sistemas Mecânicos.md",
     "Course/Mathematics/Modelos Probabilisticos",
     "Course/Controle/Vibrações Mecânica/Sistema de um grau de Liberdade.md",
@@ -210,9 +213,6 @@
     "Course/Mechanic/Vibrações/Vibrações.md",
     "Course/Control/Linear Analysis/ES601.md",
     "Course/Mechanic/Vibrações",
-    "Course/Control/Linear Analysis/Estabilidade de Sistemas.md",
-    "Course/Control/Linear Analysis/Propriedades de Sistemas.md",
-    "Course/Control/Linear Analysis/Content Checklist.md",
     "Excalidraw",
     "Course/Electric/Logic Circuits",
     "Course/Linguistics/Japanese/LA311",

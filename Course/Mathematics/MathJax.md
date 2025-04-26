@@ -12,7 +12,7 @@ MathJax is a JavaScript plugin for the markdown of mathematics symbols.
 The used symbol is \$ Syntax \$
 To make it appear in an exclusive line use \$\$ Syntax \$\$
 
-For Example: \$y=x\^\2\$ results in $y=x²$.
+For Example: \$y=x\^2\$ results in $y=x^2$.
 Fractions: \$\frac{A+B}{C+D}\$ results in $\frac{A+B}{C+D}$
 
 Greek letters also have an code:
