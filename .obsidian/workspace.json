@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
-                "mode": "preview",
+                "file": "Course/Mathematics/Modelos Probabilisticos/Formulário P1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espaço Amostral e Eventos"
+              "title": "Formulário P1"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
+                "file": "Course/Mathematics/Modelos Probabilisticos/Formulário P1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Espaço Amostral e Eventos"
+              "title": "Outgoing links from Formulário P1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
+                "file": "Course/Mathematics/Modelos Probabilisticos/Formulário P1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Espaço Amostral e Eventos"
+              "title": "Outline of Formulário P1"
             }
           },
           {
@@ -183,8 +183,9 @@
   },
   "active": "fc7c5337e2a7f746",
   "lastOpenFiles": [
-    "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
     "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
+    "Course/Mathematics/Modelos Probabilisticos/Formulário P1.md",
+    "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
     "Course/Mathematics/MathJax.md",
     "Course/Mathematics/Linear Algebra/Linear Algebra.md",
     "Course/Mathematics/Pré Cálculo/Pre-Calculus.md",
@@ -211,7 +212,6 @@
     "Course/Controle/Vibrações Mecânica/Desbalanceamento Rotativo.md",
     "Course/Mecânica/Dinâmica/Dinâmica.md",
     "Course/Mechanic/Vibrações/Vibrações.md",
-    "Course/Control/Linear Analysis/ES601.md",
     "Course/Mechanic/Vibrações",
     "Excalidraw",
     "Course/Electric/Logic Circuits",
