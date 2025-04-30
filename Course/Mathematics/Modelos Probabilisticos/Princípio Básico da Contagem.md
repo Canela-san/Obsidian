@@ -31,5 +31,3 @@
 	- Teorema Binomial 
 		$$(n+y)^n=\sum_{k=0}^n \binom{n}{k}x^ky^{n-k}$$
 - #### Coeficientes Multinomiais
-	- dwad
-	- 

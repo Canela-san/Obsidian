@@ -177,7 +177,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "iconic:Open rulebook": false,
       "omnisearch:Omnisearch": false
     }
   },
@@ -186,6 +185,7 @@
     "Course/Mathematics/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
     "Course/Mathematics/Modelos Probabilisticos/Formulário P1.md",
     "Course/Mathematics/Modelos Probabilisticos/Princípio Básico da Contagem.md",
+    "Course/Mathematics/Modelos Probabilisticos/Variáveis Aleatórias.md",
     "Course/Mathematics/MathJax.md",
     "Course/Mathematics/Linear Algebra/Linear Algebra.md",
     "Course/Mathematics/Pré Cálculo/Pre-Calculus.md",
@@ -211,7 +211,6 @@
     "Excalidraw/Drawing 2025-04-01 23.36.10.excalidraw.md",
     "Course/Controle/Vibrações Mecânica/Desbalanceamento Rotativo.md",
     "Course/Mecânica/Dinâmica/Dinâmica.md",
-    "Course/Mechanic/Vibrações/Vibrações.md",
     "Course/Mechanic/Vibrações",
     "Excalidraw",
     "Course/Electric/Logic Circuits",
