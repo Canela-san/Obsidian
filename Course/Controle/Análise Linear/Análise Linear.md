@@ -24,7 +24,7 @@ Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Te
 	- [[Modelagem de Sistemas Mecânicos]]
 	- [x] Analogia entre sistemas mecânicos e elétricos
 	- [ ] Propriedades de sistemas dinâmicos
-- [ ] Transformada de Laplace %% [[Laplace transform]] %%
+- [ ] Transformada de Laplace %% [[Course/Matemática/Cálculo 3/Laplace transform]] %%
 	- [ ] Transformada de funções básicas 
 	- [ ] Propriedades da transformada de Laplace
 	- [ ] A inversa da transformada de Laplace
@@ -76,7 +76,7 @@ Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Te
 	- [ ] A.5 Aproximação de Padé
 	- [ ] A.6 Inversa da transformada Z usando métodos computacionais
 	- [ ] A.7 Produto interno e normas de sinais
-	- [x] A.8 Tabela de transformadas de Laplace [[Laplace Transform Table]]
+	- [x] A.8 Tabela de transformadas de Laplace [[Course/Matemática/Cálculo 3/Laplace Transform Table]]
 	- [ ] A.9 Transformada bilateral de Laplace
 	- [ ] A.10 Operações básicas com diagramas de blocos
 	- [ ] A.11 Simplificação de diagramas de blocos
