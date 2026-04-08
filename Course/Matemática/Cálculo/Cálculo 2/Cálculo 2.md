@@ -10,7 +10,7 @@ Cursado: 2022/2
 DAC: https://ic.unicamp.br/~rdahab/cursos/mc211/
 ---
 Prerequisites:
-	[[Cálculo 1]]
+	[[MA111 - Cálculo 1]]
 
 - Funções de várias variáveis;
 - Limites e continuidade;

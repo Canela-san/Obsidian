@@ -4,7 +4,7 @@ tags:
   - Cource
 ---
  Prerequisites:
-	[[Geometria Analítica]]
-	[[Cálculo 1]]
+	[[MA141 - Geometria Analítica]]
+	[[MA111 - Cálculo 1]]
 
  

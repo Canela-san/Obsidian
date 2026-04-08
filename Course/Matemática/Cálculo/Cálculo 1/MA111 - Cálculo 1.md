@@ -4,10 +4,18 @@ tags:
   - Cource
   - Calculus
   - Mathmatics
+aliases:
+  - MA111
+  - Cálculo 1
+Nome: Cálculo 1
+Código: MC111
+Cursado: 2022/1
+DAC: https://ime.unicamp.br/~MA111/
 ---
 
 Prerequisites:
-	[[Course/Matemática/Calculus/Calculus 1/Pre-Calculus]]
+	[[Pre-Calculus|Pre-Calculus]]
+	
 
 - **Transcendental Functions**
     - Inverse trigonometric functions.
@@ -15,14 +23,14 @@ Prerequisites:
     - Natural logarithms and exponentials.
 
 - **Limits and Continuity**
-    [[Course/Matemática/Calculus/Calculus 1/Limits and continuity]]
+    [[Limits and continuity]]
     - Concept of the limit of a function at a point.
     - One-sided limits, infinite limits, and limits at infinity.
     - Continuity of a function at a point and over an interval.
     - Intermediate Value Theorem and Bolzano's Theorem.
 
 - **Derivatives**
-    [[Course/Matemática/Calculus/Calculus 1/Derivative]]
+    [[Derivative]]
     - Definition of a derivative as the limit of the difference quotient.
     - Differentiation rules: product rule, quotient rule, chain rule.
     - Derivatives of basic functions: polynomial, trigonometric, exponential, and logarithmic.
@@ -40,7 +48,7 @@ Prerequisites:
     - Using L'Hôpital's rule to solve indeterminate limits.
 
 - **Integrals**
-    [[Course/Matemática/Calculus/Calculus 1/Integral]]
+    [[Integral]]
     - Definition of a definite integral as the limit of Riemann sums.
     - Properties of definite integrals.
     - Fundamental Theorem of Calculus.

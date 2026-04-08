@@ -6,7 +6,7 @@ tags:
 ---
 
 Prerequisites:
-	[[MC102]]
+	[[MC102 - Algoritmos e Programação de Computadores]]
 	
 **Ementa:**
 

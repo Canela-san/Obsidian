@@ -11,7 +11,7 @@ DAC: https://www.dac.unicamp.br/portal/caderno-de-horarios/2023/2/S/G/IMECC/MA31
 ---
 Prerequisites:
 	[[Cálculo 2]]
-	[[Course/Matemática/Cálculo 3/Laplace transform|Laplace transform]]
+	[[Laplace transform|Laplace transform]]
 
 1. Equações diferenciais ordinárias de primeira ordem. Equações lineares. Teorema de existência e unicidade. Equações separáveis, exatas, fatores integrantes. Outros métodos substitutivos. Equações homogêneas.  2. Equações diferenciais ordinárias lineares de ordem superior. Princípio da superposição. Wronskiano. Equações homogêneas com coeficientes constantes. Métodos: Coeficientes indeterminados, variação dos parâmetros. Redução de ordem. Equações de Euler.  3. Transformadas de Laplace. Solução de problemas de valor inicial. Funções degrau. Funções impulso. (Tópico opcional, ministrado apenas em algumas turmas). A integral de convolução.  4. Sistemas lineares. Método da transformada de Laplace. Método da eliminação. Método de autovalores. Método dos coeficientes indeterminados. Método de variação dos parâmetros.  5. Outros tópicos. Seqüências. Séries numéricas. Testes da integral, da comparação, do limite, da razão, da raiz, etc. Séries de potências. Séries de Taylor. Soluções de equações diferenciais ordinárias por séries de potências e por séries de Frobenius. Funções periódicas. Séries de Fourier. Equações diferenciais parciais. Problemas de fronteira. Equações da onda e do calor. Método de separação de variáveis. Equação de Laplace. Problema de Dirichlet. (Os dois últimos tópicos são opcionais, e ministrados apenas em algumas turmas.)
 

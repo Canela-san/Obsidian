@@ -6,7 +6,7 @@ tags:
 ---
 
 Prerequisites:
-	[[MC202]]
+	[[MC202 - Estruturas de Dados]]
 	
 The course aims to introduce and develop object-oriented thinking in students. It covers fundamental OO concepts such as classes, objects, encapsulation, inheritance, and polymorphism, as well as good practices for designing and implementing classes. It also teaches how to use UML for modeling and apply design patterns, preparing students to create robust and scalable software.
 

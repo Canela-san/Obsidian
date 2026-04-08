@@ -3,6 +3,12 @@ tags:
   - Unicamp
   - Cource
   - Computational
+aliases:
+  - MC102
+  - Algoritmos e Programação de Computadores
+Nome: Algoritmos e Programação de Computadores
+Código: MC102
+DAC: https://ic.unicamp.br/~mc102/
 ---
 ## Ementa da Disciplina
 
