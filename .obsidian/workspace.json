@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd20fcc52f7c5f4",
+        "id": "1148bdea9be32939",
         "type": "tabs",
         "children": [
           {
-            "id": "c1748d09176e45f9",
+            "id": "69841c8136d29305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Fisica/Física Geral 4/F 428 - Física Geral IV.md",
+                "file": "Course/Computação/MC202/MC202 - Estruturas de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F 428 - Física Geral IV"
-            }
-          },
-          {
-            "id": "b963b7c5e5b9eae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course/Matemática/Cálculo/Cálculo 3/Laplace transform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laplace transform"
+              "title": "MC202 - Estruturas de Dados"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,44 +197,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b963b7c5e5b9eae7",
+  "active": "69841c8136d29305",
   "lastOpenFiles": [
-    "Course/Matemática/Cálculo/Cálculo 1/Derivative.md",
-    "Course/Fisica/Física Geral 1/F 128 - Física Geral I.md",
-    "Course/Fisica/Fisica Geral 2/F 228 - Física Geral II.md",
-    "Templates/Template - Disciplina.md",
-    "IC/IC.md",
+    "Course/Computação/MC102/MC102 - Algoritmos e Programação de Computadores.md",
+    "Course/Elétrica/Circuitos Lógicos/ES571 - Circuitos Lógicos.md",
+    "Course/Controle/Controle/ES710 - Controle de Sistemas Mecânicos.md",
+    "Course/Controle/Análise Linear/ES601 - Análise Linear de Sistemas.md",
+    "Course/Mecânica/Vibrações Mecânica/EM607 - Vibrações de Sistemas Mecânicos.md",
+    "Course/Mecânica/Dinâmica/EM404 - Dinâmica.md",
+    "Course/Mecânica/ES704/Formulário.md",
+    "Course/Mecânica/Estática/EM306 - Estática.md",
+    "Course/Controle/Análise Linear/Untitled 1.md",
+    "Course/Controle/Análise Linear/Propriedades de Sistemas.md",
+    "Course/Controle/Análise Linear/Impulso unitário.md",
+    "Course/Controle/Análise Linear/Estabilidade de Sistemas.md",
+    "Course/Matemática/Algebra Linear/MA327 – Álgebra Linear.md",
     "Course/Matemática/Geometria Analítica/MA141 - Geometria Analítica.md",
-    "Course/Matemática/Algebra Linear/Algebra Linear.md",
-    "Course/Matemática/Cálculo/Cálculo 1/Integral.md",
-    "Course/Fisica/Física Geral 4/p.md",
     "Course/Fisica/Física Geral 4/F 428 - Física Geral IV.md",
     "Course/Fisica/Física Geral 3/F 328 - Física Geral III.md",
+    "Course/Fisica/Fisica Geral 2/F 228 - Física Geral II.md",
+    "Course/Fisica/Física Geral 1/F 128 - Física Geral I.md",
+    "Course/Matemática/Cálculo/Cálculo 3/Transformada de Fourier.md",
+    "Course/Matemática/Cálculo/Cálculo 3/Transformada de Laplace.md",
+    "Course/Matemática/Cálculo/Cálculo 3/Tabela da Transformada de Laplace.md",
+    "Course/Matemática/Cálculo/Cálculo 3/Sequências e Séries.md",
+    "Course/Matemática/Cálculo/Cálculo 3/MA311 - Cálculo 3.md",
+    "Course/Matemática/Cálculo/Cálculo 2/MA211 - Cálculo 2.md",
     "Course/Matemática/Cálculo/Cálculo 1/MA111 - Cálculo 1.md",
-    "Course/Matemática/Modelos Probabilisticos/Espaço Amostral e Eventos.md",
-    "Course/Matemática/Modelos Probabilisticos/Princípio Básico da Contagem.md",
-    "Course/Matemática/Modelos Probabilisticos/Formulário P1.md",
-    "Course/Matemática/Linear Algebra/Linear Algebra.md",
-    "Teste de internet.md",
-    "Course/Matemática/Cálculo/Cálculo 2/Cálculo 2.md",
-    "Course/Computação/MC102/MC102 - Algoritmos e Programação de Computadores.md",
-    "Course/Computação/MC202/MC202 - Estruturas de Dados.md",
-    "Course/Computação/MC404/MC404 - Organização Básica de Computadores e Linguagem de Montagem.md",
-    "Course/Computação/MC322/MC322 - Programação Orientada a Objetos.md",
-    "Course/Computação/MC102/Untitled.md",
-    "Course/Controle/Análise Linear/Análise Linear.md",
-    "Course/Fisica/Física Geral 4/Aula Exploratória 09.md",
-    "README.md",
+    "Course/Matemática/Cálculo/Pré Cálculo/Pré Cálculo.md",
+    "Course/Controle/Controle",
+    "Imagens/Massa Mola Amortecedor.png",
+    "Imagens/Pasted image 20250625103035.png",
+    "Imagens/Massa Mola.png",
     "Templates",
     "Course/Fisica/Física Geral 3",
     "Course/Fisica/Física Geral 1",
-    "Imagens/Pasted image 20250625103035.png",
-    "Imagens/Massa Mola.png",
     "Imagens/Circuito RLC.png",
     "Imagens/Pasted image 20251126082238.png",
     "Imagens/Pasted image 20251114141004.png",
     "Imagens/Pasted image 20251114134139.png",
-    "Imagens/Massa Mola Amortecedor.png",
     "Processor/Arquitecture Diagram.canvas",
     "Course/Matemática/Cálculo",
     "IC",
@@ -256,7 +243,6 @@
     "Course/Elétrica/Eletrônica Digital 1",
     "Course/Computação/Redes/Modelo OSI",
     "Course/Computação/Redes/Protocolos de Redes",
-    "Course/Mecânica/Ternodinâmica",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "obsidian-math-advanced.avif",

@@ -3,16 +3,20 @@ tags:
   - Unicamp
   - Cource
   - Control
+aliases:
+  - ES601
+  - Análise Línear
+  - Anal
+  - Análise Linear de Sistemas
 Nome: Análise Linear
 Código: ES601
 Cursado: 2024/2
 DAC: https://www.dac.unicamp.br/portal/caderno-de-horarios/2024/2/S/G/FEM/ES601
 Referência: http://www.fem.unicamp.br/~camino/CourseNotes/Apostila_ES601_Camino.pdf
+Pré Requisitos:
+  - "[[MA311 - Cálculo 3]]"
+  - "[[MA327 – Álgebra Linear]]"
 ---
-Prerequisites:
-	[[Cálculo 3]]
-	[[Algebra Linear]]
-
 **Ementa:**
 Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Teorema da amostragem. Função de transferência. Análise de resposta em frequência de sistemas no tempo contínuo e no tempo discreto. Representação no espaço de estado. Realizações canônicas de funções de transferência. Solução temporal no espaço de estado. Estabilidade de sistemas contínuos e discretos. Conceitos básicos de controlabilidade e observabilidade.
 
@@ -24,7 +28,7 @@ Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Te
 	- [[Modelagem de Sistemas Mecânicos]]
 	- [x] Analogia entre sistemas mecânicos e elétricos
 	- [ ] Propriedades de sistemas dinâmicos
-- [ ] Transformada de Laplace %% [[Laplace transform]] %%
+- [ ] Transformada de Laplace %% [[Transformada de Laplace]] %%
 	- [ ] Transformada de funções básicas 
 	- [ ] Propriedades da transformada de Laplace
 	- [ ] A inversa da transformada de Laplace
@@ -76,7 +80,7 @@ Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Te
 	- [ ] A.5 Aproximação de Padé
 	- [ ] A.6 Inversa da transformada Z usando métodos computacionais
 	- [ ] A.7 Produto interno e normas de sinais
-	- [x] A.8 Tabela de transformadas de Laplace [[Laplace Transform Table]]
+	- [x] A.8 Tabela de transformadas de Laplace [[Tabela da Transformada de Laplace]]
 	- [ ] A.9 Transformada bilateral de Laplace
 	- [ ] A.10 Operações básicas com diagramas de blocos
 	- [ ] A.11 Simplificação de diagramas de blocos

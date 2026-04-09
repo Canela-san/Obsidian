@@ -11,11 +11,12 @@ Nome: Cálculo 1
 Código: MC111
 Cursado: 2022/1
 DAC: https://ime.unicamp.br/~MA111/
+Pré Requisitos:
+  - "[[Pré Cálculo|Pré Calculo]]"
 ---
 
 Prerequisites:
-	[[Pre-Calculus|Pre-Calculus]]
-	
+	[[Pré Cálculo|Pre-Calculus]]
 
 - **Transcendental Functions**
     - Inverse trigonometric functions.

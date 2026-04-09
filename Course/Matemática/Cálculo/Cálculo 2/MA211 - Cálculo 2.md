@@ -4,13 +4,17 @@ tags:
   - Cource
   - Calculus
   - Mathmatics
+aliases:
+  - Cálculo 2
+  - MA211
 Nome: Cálculo 2
 Código: MC211
 Cursado: 2022/2
 DAC: https://ic.unicamp.br/~rdahab/cursos/mc211/
+Pré Requisitos:
+  - "[[MA111 - Cálculo 1]]"
 ---
-Prerequisites:
-	[[MA111 - Cálculo 1]]
+
 
 - Funções de várias variáveis;
 - Limites e continuidade;

@@ -24,7 +24,7 @@ where:
 - $s$ is a complex variable.
 
 The Laplace transform is widely used in engineering and physics because it simplifies the process of solving linear differential equations with initial conditions. It converts differential equations in the time domain into algebraic equations in the complex domain, which are generally easier to manipulate and solve.
-There are several transformations found in the [[Laplace Transform Table]].
+There are several transformations found in the [[Tabela da Transformada de Laplace]].
 
 Transformation of some simple functions:
 - $\mathcal f(t)=C$

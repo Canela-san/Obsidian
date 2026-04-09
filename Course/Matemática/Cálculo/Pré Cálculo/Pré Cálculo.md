@@ -1,6 +1,15 @@
-Prerequisites:
-	[[MathJax]]
-
+---
+tags:
+  - Unicamp
+  - Cource
+aliases:
+  - Pré Cálculo
+Nome:
+Código:
+DAC:
+Pré Requisitos:
+  - "[[MathJax]]"
+---
 - **Real Numbers**
     
     - Properties of real numbers, including arithmetic operations and order.
