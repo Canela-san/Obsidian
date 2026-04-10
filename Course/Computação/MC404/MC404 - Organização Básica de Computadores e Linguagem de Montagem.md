@@ -3,11 +3,16 @@ tags:
   - Unicamp
   - Cource
   - Computational
+aliases:
+  - MC404
+  - Organização Básica de Computadores e Linguagem de Montagem
+Nome: Organização Básica de Computadores e Linguagem de Montagem
+Código: MC404
+DAC: https://www.dac.unicamp.br/portal/caderno-de-horarios/2025/1/S/G/IC/MC404
+Pré Requisitos:
+  - "[[MC202 - Estruturas de Dados]]"
+  - "[[ES571 - Circuitos Lógicos]]"
 ---
-Prerequisites:
-	[[MC202 - Estruturas de Dados]]
-	[[ES571 - Circuitos Lógicos]]
-
 Introdução à organização de computadores e representação de informação na memória. Estudo do conjunto de instruções de processadores relevantes. Desenvolvimento, implementação e testes de programas usando linguagens de montagem. Espaço de endereçamento físico e mapeamento de endereços para memória e periféricos. Programação de dispositivos de entrada e saída. Tratamento de interrupções.
 
 - Introduction to digital computer architecture: Von Neumann machines vs. Harvard architectures; RISC architectures; microprocessors x microcontrollers.
