@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
       "LiBookMarked",
       "LiGlobe",
       "LiComputer",
@@ -52,7 +53,6 @@
   "Course/Elétrica/Eletrônica Básica 1": "LiFolder",
   "Course/Elétrica/Eletrônica Digital 1": "LiFolder",
   "Course/Matemática": "LiFolder",
-  "Course/Matemática/MathJax.md": "LiBookOpen",
   "Course/Matemática/Modelos Probabilisticos": "LiFolder",
   "Course/Matemática/Modelos Probabilisticos/Espaço Amostral e Eventos.md": "LiNotebook",
   "Course/Matemática/Modelos Probabilisticos/Formulário P1.md": "LiNotebook",
@@ -133,5 +133,13 @@
   "Course/Química/QG111 - Química Teórica.md": "LiBookMarked",
   "Course/Química/QG122 - Química Experimental.md": "LiBookMarked",
   "Course/Matemática/Cálculo Numérico": "LiFolder",
-  "Course/Matemática/Cálculo Numérico/MS211 - Cálculo Numérico.md": "LiBookMarked"
+  "Course/Matemática/Cálculo Numérico/MS211 - Cálculo Numérico.md": "LiBookMarked",
+  "Course/Química/ES242 - Materiais de Engenharia.md": "LiBookMarked",
+  "Course/Mecânica/Dinâmica": "LiFolder",
+  "Course/Mecânica/Dispositivos Eletromecânicos": "LiFolder",
+  "Course/linguística/Japanese/LA611": "LiFolder",
+  "Course/Computação/Redes/Protocolos de Redes/Redes e Protocolos Industriais.md": "LiNetwork",
+  "Latex/MathJax.md": "LiBookOpen",
+  "Latex/Circuitikz.md": "LiBookOpen",
+  "Course/Controle e Automação/Controle Avançado": "LiFolder"
 }

@@ -1,4 +1,4 @@
-$T=\left( 32\ bits\ \cdot\ 4\ \frac{bits}{ciclo} \right) \cdot\ 5\ \frac{ns}{bit}=640\ ns$
+$T=\left( 32\ bits\ \cdot\ 4\ \frac{bits}{ciclo} \right) \cdot\ 5\ \frac{ns}{bit}=640\ \frac{ns}{s}$
 $f=\frac{1}{T}=1.5\ Msps$
 
 $500\ Ksps$

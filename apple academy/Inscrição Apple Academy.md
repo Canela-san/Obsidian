@@ -1,0 +1,21 @@
+![[Pasted image 20260727122126.png]]
+![[Pasted image 20260727122152.png]]
+![[Pasted image 20260727122204.png]]
+Por que você deseja participar da Apple Developer Academy?
+Eu estudei programação pelo curso técnico e pela faculdade, mas sempre senti que me faltava experiência prática. Por isso, a metodologia de ensino me chamou a atenção: o Challenge Based Learning é exatamente o que eu estava procurando! Além, é claro, de ter contato com pessoas da área de desenvolvimento de software, acredito que essa será uma ótima experiência profissional na área em que tenho interesse.
+
+Como você imagina sua trajetória profissional nos próximos 5 anos?
+Para os próximos cinco anos, eu me imagino trabalhando ativamente como desenvolvedor de software, participando de projetos inovadores e ajudando a construir produtos que façam a diferença para os usuários. Vejo a Apple Developer Academy como o passo mais valioso e estratégico para alcançar essa visão. O programa me daria a oportunidade de mergulhar de cabeça no desenvolvimento prático, aprender as melhores práticas do mercado e colaborar com outros profissionais. Essa experiência é a peça que falta para eu unir minha base de engenharia mecatrônica com a criação de softwares.
+
+Quais ferramentas de Inteligência Artificial você utiliza no dia a dia? Como elas apoiam sua rotina?
+Utilizo principalmente o Gemini e o Claude. Utilizo o Gemini para me ajudar nos estudos e em perguntas gerais do dia a dia, especialmente para a explicação de conceitos que ficaram confusos. Já o Claude eu uso para me apoiar na programação, pois gosto de verificar suas sugestões de organização de código. Ele foi muito útil, por exemplo, para aprender Assembly ARM64 durante a minha Iniciação Científica (IC) de aquisição e análise de supra-harmônicas na rede elétrica.
+
+Você já participou de projetos acadêmicos, iniciação científica, extensão, empresa júnior, monitoria, voluntariado, hackathons ou iniciativas similares?
+Já participei de duas Iniciações Científicas e de uma Empresa Júnior.
+
+Minha última Iniciação Científica foi intitulada: 'Sistema de identificação da presença de supra-harmônicas em redes e cargas elétricas' (Repositório: [https://github.com/Canela-san/SH-Analyzer](https://github.com/Canela-san/SH-Analyzer)). Em resumo, projetei e construí um sistema de hardware e software para medir a tensão da rede elétrica e fazer a análise em frequência do sinal, para, enfim, identificar a presença de harmônicos acima da frequência abordada em norma (supra-harmônicas). Nesse projeto, desenvolvi uma PCB (Placa de Circuito Impressa) para a aquisição da tensão, que transmite os dados para uma BeagleBone Black (um computador de placa única mais robusto que um Arduino). Como a placa possui três processadores internos, onde dois operam apenas com programação de baixo nível, projetar a PCB e escrever o firmware foi um desafio.
+
+A Empresa Júnior que participei se chamava Mecatron. Ela é focada no desenvolvimento de protótipos para validar ideias (PoC - Proof of Concept) e na construção da primeira versão funcional para o mercado (MVP - _Minimum Viable Product_). Atuei principalmente no desenvolvimento do hardware de um projeto de refrigeração de vacinas. A ideia era criar um refrigerador compacto, com controle preciso de temperatura, contagem automática do número de vacinas e registro de logs (temperatura, porta aberta, entrada e retirada de doses).
+
+Descreva um desafio importante que você enfrentou e o que aprendeu com essa experiência.
+O maior desafio que enfrentei recentemente foi durante a minha última Iniciação Científica. Precisei desenvolver todo o projeto sozinho: desde o design da PCB (Placa de Circuito Impressa) e a escrita do firmware para comunicação, até o software para a análise dos dados. Como resultado, o projeto se tornou mais demorado e difícil do que precisava ser. A grande lição que tirei dessa experiência foi o valor do trabalho em equipe. Percebi que, se o projeto tivesse sido dividido, ele não só teria sido concluído mais rapidamente, como cada integrante poderia ter garantido uma entrega ainda mais precisa em sua respectiva área de especialidade.
