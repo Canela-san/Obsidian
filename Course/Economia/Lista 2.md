@@ -1,11 +1,3 @@
-Olá, Gabriel! Entendo perfeitamente a sua situação. Como estudante de engenharia, você está acostumado com lógica determinística e causalidade clara. A economia, especialmente a macroeconomia desta lista, segue uma lógica parecida, mas com variáveis comportamentais.
-
-A lista que você enviou foca pesadamente na **Teoria Keynesiana** (baseada em John Maynard Keynes). Essa é a base da Macroeconomia moderna e difere da visão "Clássica" (que acredita que o mercado se ajusta sozinho perfeitamente).
-
-Para facilitar, vou agrupar as primeiras 5 questões em três blocos lógicos: **Consumo**, **Investimento** e **Emprego**. Vamos abordar a teoria por trás de cada uma para você matar essas questões.
-
----
-
 ### 1. A Lógica do Consumo (Questões 1 e 2)
 
 Para a Engenharia, pensamos em "entrada e saída". Para Keynes, o que entra no bolso das famílias (Renda) define o que sai (Gasto).
@@ -102,16 +94,6 @@ Q4) Qual a diferença entre a teoria da determinação do emprego para Keynes e 
 | **Investimento ($I$)** | Taxa de Juros ($i$) e Expectativa de Lucro ($EMgK$)  | $I = f(i, EMgK)$         |
 | **Emprego ($N$)**      | Demanda Agregada (O quanto a sociedade quer comprar) | $N = f(Demand)$          |
 
-Esses conceitos cobrem as questões 1 a 5. As próximas questões da sua lista (6 em diante) entram em **Moeda, Taxa de Juros e Multiplicadores**, que são um pouco mais técnicos.
-
-**Gostaria que eu continuasse a explicação para as questões 6, 7 e 8 (Teoria da Moeda e Multiplicadores)?**
-
-Vamos lá, Gabriel. Dando continuidade, agora entraremos na "mecânica de fluidos" da economia: Moeda, Multiplicadores e Taxa de Juros. Para um estudante de Engenharia de Controle, isso vai fazer muito sentido, pois começaremos a falar sobre **ganhos (multiplicadores)** e **variáveis de estado (estoque de moeda)**.
-
-[cite_start]Aqui estão as explicações para as questões 6 a 10 da sua lista[cite: 13, 14, 15, 16, 17].
-
----
-
 ### 4. Moeda e Inflação (Questão 6)
 
 Esta questão pede um conceito clássico que serve de contraponto para Keynes.
@@ -163,7 +145,7 @@ Em engenharia, chamamos isso de "Ganho" ($Gain$). Um pequeno *input* gera um gra
 
 **Q8) Qual a relação entre investimento e emprego para Keynes?**
 
-[cite_start]Para Keynes, o investimento é a variável motriz ("driver") da economia[cite: 15].
+Para Keynes, o investimento é a variável motriz ("driver") da economia[cite: 15].
 
 * **Causalidade:** $\Delta Investimento \rightarrow \Delta Demanda \rightarrow \Delta Produção \rightarrow \Delta Emprego$.
 * **Resposta:** A relação é **direta e causal**. O nível de emprego não é determinado pelo salário (como achavam os clássicos), mas sim pelo nível de Investimento. Para aumentar o emprego, é necessário aumentar o Investimento Agregado (seja privado ou gasto público).
@@ -178,19 +160,4 @@ Aqui Keynes muda o entendimento do que é o dinheiro.
 
 * **Para os Neoclássicos (Clássicos):** Juros é o prêmio pela **espera** (poupança). É o preço que equilibra a oferta de poupança com a demanda de investimento (Mercado de Fundos Emprestáveis). É um fenômeno "real".
 * **Para Keynes:** Juros é o prêmio pela **liquidez**. As pessoas preferem ter dinheiro na mão (líquido) por segurança. Para convencê-las a emprestar o dinheiro (comprar um título e ficar "ilíquido"), você precisa pagar juros.
-* [cite_start]**Resposta:** Para Keynes, a taxa de juros é um fenômeno estritamente **monetário**, determinado pela oferta de moeda (controlada pelo Banco Central) e pela demanda por moeda (Preferência pela Liquidez do público)[cite: 16].
-
----
-
-### Resumo Visual (Diagrama de Blocos Mental)
-
-Se fôssemos desenhar um diagrama de controle do sistema Keynesiano baseado nessas questões:
-
-1.  **Entrada (Input):** Expectativas dos empresários + Política Monetária (Juros/Moeda).
-2.  **Processo:** Decisão de Investimento.
-3.  **Amplificação:** Multiplicador (Gasto $\rightarrow$ Renda $\rightarrow$ Mais Gasto).
-4.  **Saída (Output):** Nível de Emprego e Renda Nacional.
-
-Isso cobre até a questão 10 (note que a lista repete algumas questões a partir da 11). As últimas questões (16, 17, 18) falam de Bolsa de Valores e Política Fiscal/Monetária.
-
-**Quer finalizar matando essas últimas questões sobre Bolsa e Políticas Econômicas?**
+* **Resposta:** Para Keynes, a taxa de juros é um fenômeno estritamente **monetário**, determinado pela oferta de moeda (controlada pelo Banco Central) e pela demanda por moeda (Preferência pela Liquidez do público).

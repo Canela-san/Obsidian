@@ -87,7 +87,6 @@
   "Course/Computação/MC202/MC202 - Estruturas de Dados.md": "LiBookMarked",
   "Course/Computação/MC322/MC322 - Programação Orientada a Objetos.md": "LiBookMarked",
   "Course/Computação/MC404/MC404 - Organização Básica de Computadores e Linguagem de Montagem.md": "LiBookMarked",
-  "Course/Fisica/Fisica Geral 2/F 228 - Física Geral II.md": "LiBookMarked",
   "Course/Fisica/Física Geral 1/F 128 - Física Geral I.md": "LiBookMarked",
   "Course/Fisica/Física Geral 3/F 328 - Física Geral III.md": "LiBookMarked",
   "Course/Matemática/Cálculo": "LiFolder",
@@ -108,7 +107,6 @@
   "Course/Mecânica/Vibrações Mecânica/EM607 - Vibrações de Sistemas Mecânicos.md": "LiBookMarked",
   "Course/Elétrica/Circuitos Lógicos/ES571 - Circuitos Lógicos.md": "LiBookMarked",
   "Course/Fisica/Física Geral 1": "LiFolder",
-  "Course/Fisica/Fisica Geral 2": "LiFolder",
   "Course/Fisica/Física Geral 3": "LiFolder",
   "Course/Fisica/Física Geral 4": "LiFolder",
   "Course/Elétrica/Princípios de Conversão de Energia/ET520 - Princípios de Conversão de Energia.md": "LiBookMarked",
@@ -127,8 +125,6 @@
   "Course/Controle e Automação/Análise Linear": "LiFolder",
   "Course/Controle e Automação/Controle": "LiFolder",
   "Course/Controle e Automação/Automação Industrial/ES926 - Automação Industrial.md": "LiBookMarked",
-  "Course/Controle e Automação/Instumentação": "LiFolder",
-  "Course/Controle e Automação/Instumentação/ES704 - Instrumentação Básica.md": "LiBookMarked",
   "Course/Química": "LiFolder",
   "Course/Química/QG111 - Química Teórica.md": "LiBookMarked",
   "Course/Química/QG122 - Química Experimental.md": "LiBookMarked",
@@ -141,5 +137,9 @@
   "Course/Computação/Redes/Protocolos de Redes/Redes e Protocolos Industriais.md": "LiNetwork",
   "Latex/MathJax.md": "LiBookOpen",
   "Latex/Circuitikz.md": "LiBookOpen",
-  "Course/Controle e Automação/Controle Avançado": "LiFolder"
+  "Course/Controle e Automação/Controle Avançado": "LiFolder",
+  "Course/Controle e Automação/Instrumentação": "LiFolder",
+  "Course/Controle e Automação/Instrumentação/ES704 - Instrumentação Básica.md": "LiBookMarked",
+  "Course/Fisica/Física Geral 2": "LiFolder",
+  "Course/Fisica/Física Geral 2/F 228 - Física Geral II.md": "LiBookMarked"
 }

@@ -1,9 +1,25 @@
+# 🌐 Modelo OSI (Open Systems Interconnection)
 
 **Tags:** #redes #modelo-osi #arquitetura-redes
 
-O Modelo OSI é um modelo conceitual criado pela ISO (International Organization for Standardization) que padroniza as funções de um sistema de telecomunicações ou computação. Ele divide o processo de comunicação em 7 camadas lógicas. 
+O Modelo OSI é um modelo conceitual criado pela ISO (International Organization for Standardization) que padroniza as funções de um sistema de telecomunicações ou computação. Ele divide o processo de comunicação em 7 camadas lógicas.
 
 O grande objetivo do OSI não é ser implementado exatamente como está (o TCP/IP acabou vencendo na prática), mas sim servir como a **referência universal** para entender redes, desenvolver hardwares/softwares interoperáveis e realizar *troubleshooting* (especialmente útil na análise de redes de processos industriais).
+
+---
+
+## ✅ Checklist de Estudo
+- [ ] [[Camada 1 - Física]]
+- [ ] [[Camada 2 - Enlace de Dados]]
+- [ ] [[Camada 3 - Rede]]
+- [ ] [[Camada 4 - Transporte]]
+- [ ] [[Camada 5 - Sessão]]
+- [ ] [[Camada 6 - Apresentação]]
+- [ ] [[Camada 7 - Aplicação]]
+
+> [!tip] Mnemônico (de baixo pra cima, 1 → 7)
+> **"Fio Enrola Rede: Transporta Sessão, Apresenta Aplicação."**
+> Física → Enlace → Rede → Transporte → Sessão → Apresentação → Aplicação
 
 ---
 
@@ -32,9 +48,25 @@ O **PDU (Protocol Data Unit)** é o nome que a informação recebe em cada camad
 
 ---
 
+## 🔬 Exemplo Prático: Uma Requisição Web, Camada por Camada
+
+Pra fixar o conceito de encapsulamento, veja (de forma simplificada) o que acontece quando você digita um endereço no navegador e aperta Enter:
+
+1. **Camada 7 (Aplicação):** O navegador monta uma requisição `HTTP GET`.
+2. **Camada 6 (Apresentação):** Se for HTTPS, os dados são criptografados (TLS) aqui.
+3. **Camada 5 (Sessão):** Uma sessão com o servidor é aberta ou reaproveitada (ex: mantendo o login e o estado da conversa).
+4. **Camada 4 (Transporte):** Os dados viram **Segmentos TCP**, ganhando porta de origem e destino (ex: porta 443).
+5. **Camada 3 (Rede):** Os segmentos viram **Pacotes IP**, ganhando o IP de origem e destino — é aqui que o roteador decide o caminho.
+6. **Camada 2 (Enlace):** Os pacotes viram **Quadros**, ganhando o endereço MAC do próximo salto (ex: o roteador do seu Wi-Fi).
+7. **Camada 1 (Física):** Os quadros viram **Bits**, transmitidos como sinal de rádio (Wi-Fi) ou pulso elétrico (cabo).
+
+No servidor, o processo acontece **exatamente ao contrário** (1 → 7), desencapsulando cada camada até a requisição `HTTP GET` chegar limpa na aplicação do servidor.
+
+---
+
 ## 📐 Conceitos Chaves para as Notas Individuais
 
-Para manter a consistência em cada uma das 7 notas vinculadas acima, lembre-se das seguintes definições ao preencher os tópicos:
+Para manter a consistência em cada uma das 7 notas vinculadas acima, lembre-se das seguintes definições ao revisar os tópicos:
 
 1.  **Serviço:** É *o que* a camada faz. O conjunto de primitivas fornecidas pela camada *N* para a camada superior *N+1*.
 2.  **Interface:** É *como* a camada superior acessa a camada inferior. Define os parâmetros e as portas pelas quais as informações são passadas entre a camada *N* e a camada *N-1*.

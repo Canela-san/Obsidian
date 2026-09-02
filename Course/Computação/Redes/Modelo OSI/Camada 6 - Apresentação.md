@@ -2,6 +2,8 @@
 
 **Tags:** #redes #modelo-osi #camada-apresentacao #criptografia #compressao #formatacao #sintaxe
 
+**Navegação:** [[Modelo OSI (Open Systems Interconnection)|↑ Modelo OSI]] · ← [[Camada 5 - Sessão]] · [[Camada 7 - Aplicação]] →
+
 A Camada de Apresentação foca na **sintaxe e na semântica** das informações transmitidas. Enquanto as camadas inferiores se preocupam em *como* mover os bits de um ponto A para um ponto B de forma confiável, a Camada 6 se preocupa com o *significado* desses bits, garantindo que a informação enviada pela aplicação emissora seja legível pela aplicação receptora.
 
 ---
@@ -30,7 +32,7 @@ Oferece três serviços fundamentais para que a aplicação não precise se preo
 * **Compressão de Dados:** Reduz o tamanho da carga útil para otimizar o uso da banda de rede (vital na transmissão de multimídia).
 
 ### 2. Interface (Conexão entre Camadas)
-A Camada 6 fornece bibliotecas e APIs para a Camada de Aplicação (7). Quando você programa um software e usa uma biblioteca para salvar uma imagem em PNG ou para abrir uma conexão HTTPS segura, você está acionando as rotinas da Camada de Apresentação, que por sua vez acionam a Camada de Sessão (5) para abrir o canal.
+A Camada 6 fornece bibliotecas e APIs para a Camada de Aplicação (7). Quando você programa um software e usa uma biblioteca para salvar uma imagem em PNG ou para abrir uma conexão HTTPS segura, você está acionando as rotinas da Camada de Apresentação, que por sua vez aciona a Camada de Sessão (5) para abrir o canal.
 
 ### 3. Protocolos e Padrões
 Muitos "protocolos" desta camada são, na verdade, formatos de arquivo ou algoritmos de segurança que padronizam a representação da informação:
@@ -47,3 +49,13 @@ A Camada 6 é estritamente lógica. Não há hardware de rede específico para e
 
 ## 🔍 Visão de Alto Nível: Interoperabilidade
 A importância desta camada fica evidente quando pensamos na diversidade de hardwares e softwares atuais. Um servidor Linux rodando em processadores ARM precisa entregar uma página web segura para um notebook Windows rodando arquitetura x86_64, ou para um smartphone Android. A Camada 6 é a responsável por aplicar a criptografia (TLS) e definir a codificação de caracteres (UTF-8) para que o navegador do usuário receba e interprete o texto, os formulários e as imagens perfeitamente, com zero perda de qualidade ou semântica.
+
+---
+
+## 🔑 Pontos-Chave para Revisão
+- **PDU:** Dados (ou PPDU na literatura formal).
+- Foco em sintaxe/semântica: tradução, criptografia e compressão — não se importa com "como" transportar, só com "o formato" da informação.
+- Resolve Big-Endian vs Little-Endian, EBCDIC vs UTF-8, e aplica TLS/SSL.
+- Camada estritamente lógica — vive em bibliotecas de software e no SO, sem hardware dedicado.
+- Exemplos de "protocolos": TLS/SSL, JPEG/PNG/MPEG, JSON/XML, UTF-8.
+- **Pergunta de fixação:** quando você abre um site HTTPS, em qual camada a criptografia TLS acontece de fato? → Camada 6 (Apresentação), mesmo sendo comum associá-la à Camada 4 ou 7 na prática do dia a dia.

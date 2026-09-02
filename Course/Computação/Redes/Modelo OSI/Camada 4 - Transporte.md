@@ -2,6 +2,8 @@
 
 **Tags:** #redes #modelo-osi #camada-transporte #TCP #UDP #portas #sockets
 
+**Navegação:** [[Modelo OSI (Open Systems Interconnection)|↑ Modelo OSI]] · ← [[Camada 3 - Rede]] · [[Camada 5 - Sessão]] →
+
 A Camada de Transporte é o divisor de águas do Modelo OSI. Ela é a ponte que separa as camadas focadas na infraestrutura e roteamento da rede (1, 2 e 3) das camadas focadas na aplicação do usuário (5, 6 e 7). Seu papel é garantir que a mensagem chegue do processo emissor ao processo receptor de ponta a ponta (*end-to-end*).
 
 ---
@@ -49,3 +51,13 @@ No entanto, equipamentos de segurança como **Firewalls** e **Balanceadores de C
 Na Engenharia de Controle e Automação, a escolha do protocolo da Camada 4 é uma decisão de projeto crítica. 
 Se o objetivo é transmitir um *setpoint* crítico ou alterar a configuração de um CLP, a escolha recai sobre o **TCP** (ex: Modbus TCP). Nesse cenário, a excelência e a garantia de entrega são primordiais, pois a perda de um único comando pode corromper um processo industrial inteiro. 
 Por outro lado, se a tarefa for ler um sensor de vazão que atualiza 100 vezes por segundo, a abordagem ideal é o **UDP**. Se a rede perder a leitura número 45, não há tempo para pedir retransmissão, pois a leitura 46 já está chegando. Em malhas de controle de tempo real, um dado atrasado é frequentemente pior do que um dado perdido.
+
+---
+
+## 🔑 Pontos-Chave para Revisão
+- **PDU:** Segmento (TCP) ou Datagrama (UDP).
+- Multiplexação via **Portas** (ex: 80 para HTTP, 502 para Modbus TCP) permite várias aplicações usarem a rede ao mesmo tempo.
+- **TCP** = orientado à conexão, garante entrega e ordem (*three-way handshake*); **UDP** = "fire and forget", sem garantias, porém mais rápido.
+- Sem hardware dedicado — implementado 100% em software (pilha de rede do SO); Firewalls e Load Balancers atuam aqui.
+- Trade-off de engenharia: TCP para comandos críticos de CLP (não pode perder); UDP para leitura contínua de sensor (dado atrasado é pior que dado perdido).
+- **Pergunta de fixação:** por que o Modbus TCP usa TCP e não UDP? → Porque perder um comando de escrita num CLP pode corromper o processo; a garantia de entrega compensa a latência extra.

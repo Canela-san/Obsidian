@@ -1,5 +1,8 @@
+# 🔗 Camada 2: Enlace de Dados (Data Link Layer)
 
 **Tags:** #redes #modelo-osi #camada-enlace #MAC #switch #ethernet
+
+**Navegação:** [[Modelo OSI (Open Systems Interconnection)|↑ Modelo OSI]] · ← [[Camada 1 - Física]] · [[Camada 3 - Rede]] →
 
 A Camada de Enlace de Dados transforma o meio de transmissão bruto (Camada 1) em um link confiável. Ela é responsável por organizar os dados em formatos lógicos e garantir que a comunicação entre dois dispositivos conectados diretamente no mesmo meio físico ocorra sem erros de endereçamento.
 
@@ -54,3 +57,13 @@ A Camada 2 é frequentemente dividida em duas subcamadas para facilitar a interf
 Em sistemas de automação, a Camada 2 é onde configuramos as **VLANs (Virtual LANs)**. Isso permite isolar o tráfego de controle (como mensagens de um CLP/PLC) do tráfego administrativo, aumentando a segurança e reduzindo colisões. 
 
 Protocolos industriais como o **Profinet** ou **EtherNet/IP** utilizam extensivamente as capacidades da Camada 2 para garantir que os dados cheguem no tempo correto (determinismo) através de priorização de quadros (QoS).
+
+---
+
+## 🔑 Pontos-Chave para Revisão
+- **PDU:** Quadro (Frame) — primeira camada com estrutura lógica de verdade (Header + Trailer).
+- Subcamadas: **LLC** (conversa com a Camada 3) e **MAC** (conversa com a Camada 1, controla quem transmite).
+- Detecção de erro via FCS/CRC no trailer; controle de fluxo evita atropelar um receptor lento.
+- Hardware típico: Switch (lê MAC pra decidir a porta), Bridge, NIC.
+- Aplicação industrial: VLANs isolam o tráfego de CLP do tráfego administrativo; Profinet/EtherNet-IP usam priorização de quadros pra garantir determinismo.
+- **Pergunta de fixação:** qual a diferença entre um Hub (Camada 1) e um Switch (Camada 2)? → O Switch lê o endereço MAC e encaminha só pra porta certa; o Hub apenas repete o sinal elétrico pra todas as portas, sem inteligência nenhuma.

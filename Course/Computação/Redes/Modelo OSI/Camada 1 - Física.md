@@ -1,4 +1,8 @@
+# 🔌 Camada 1: Física (Physical Layer)
+
 **Tags:** #redes #modelo-osi #hardware #sinais #camada-fisica
+
+**Navegação:** [[Modelo OSI (Open Systems Interconnection)|↑ Modelo OSI]] · Próxima camada → [[Camada 2 - Enlace de Dados]]
 
 A Camada Física é a base de todo o modelo OSI. Ela lida com a transmissão bruta de sequências de bits através de um meio de transmissão físico. Diferente das camadas superiores, ela não se preocupa com o significado dos dados, mas sim com as propriedades elétricas, mecânicas e óticas do sinal.
 
@@ -50,3 +54,12 @@ Diferente das camadas superiores que são puramente software, aqui os protocolos
 
 ## 🔍 Aspectos de Engenharia (Para Redes de Processos Industriais)
 Em ambientes industriais, a Camada Física deve considerar a **Imunidade a Ruído (EMI/RFI)**. O uso do padrão **RS-485** com sinais diferenciais, por exemplo, é uma decisão de Camada 1 para garantir a integridade dos bits em longas distâncias e ambientes com motores elétricos.
+
+---
+
+## 🔑 Pontos-Chave para Revisão
+- **PDU:** Bit — não existe cabeçalho de controle, só codificação de sinal (Manchester, NRZ) e sincronismo de clock.
+- Não interpreta o significado dos dados: só cuida de tensão elétrica, luz ou rádio.
+- Hardware típico: cabos, hubs/repetidores, transceivers (SFP), NICs (na camada elétrica).
+- Padrões que caem em prova: RS-485 (imunidade a ruído em automação), Ethernet físico (1000BASE-T), IEEE 802.11 (Wi-Fi).
+- **Pergunta de fixação:** por que um *hub* opera na Camada 1 e não na Camada 2? → Porque ele apenas repete o sinal elétrico para todas as portas, sem nunca ler o endereço MAC do quadro.

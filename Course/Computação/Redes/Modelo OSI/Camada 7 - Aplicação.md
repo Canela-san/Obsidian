@@ -2,6 +2,8 @@
 
 **Tags:** #redes #modelo-osi #camada-aplicacao #http #dns #mqtt #software
 
+**Navegação:** [[Modelo OSI (Open Systems Interconnection)|↑ Modelo OSI]] · ← [[Camada 6 - Apresentação]]
+
 A Camada de Aplicação é o topo do Modelo OSI e a mais próxima do usuário final. Diferente das outras camadas, ela não fornece serviços para nenhuma outra camada do modelo, mas sim diretamente para os aplicativos de software que rodam no sistema operacional (como navegadores web, clientes de e-mail ou sistemas de supervisão).
 
 ---
@@ -52,3 +54,13 @@ Porém, dispositivos avançados de segurança como **Firewalls de Aplicação (W
 
 ## 🔍 Visão de Engenharia e Arquitetura de Sistemas
 Na construção de sistemas modernos, a Camada 7 é onde a regra de negócios encontra a rede. Em arquiteturas de Internet das Coisas (IoT) ou Indústria 4.0, protocolos leves da Camada 7, como o **MQTT** (baseado em publicação/assinatura), são essenciais. Eles permitem que milhares de sensores enviem dados para um *broker* central utilizando o mínimo de largura de banda e processamento, contrastando com o peso de protocolos tradicionais como o HTTP, garantindo eficiência e escalabilidade na coleta de dados.
+
+---
+
+## 🔑 Pontos-Chave para Revisão
+- **PDU:** Dados/Mensagem (ou APDU na nomenclatura formal).
+- Única camada que fala diretamente com o software do usuário — não presta serviço para nenhuma camada acima dela.
+- Concentra a maior variedade de protocolos: HTTP/HTTPS, FTP, SMTP/POP3/IMAP, DNS, DHCP, SSH, MQTT/CoAP.
+- Hardware associado é só os próprios servidores/hosts; Firewalls de Aplicação (WAF) inspecionam esse tráfego.
+- Em IoT/Indústria 4.0, protocolos leves como MQTT (pub/sub) substituem o HTTP tradicional para economizar banda em milhares de sensores.
+- **Pergunta de fixação:** por que o MQTT é preferido ao HTTP em redes com milhares de sensores IoT? → Porque usa o modelo publish/subscribe, que consome muito menos banda e processamento do que fazer requisições HTTP individuais repetidamente.

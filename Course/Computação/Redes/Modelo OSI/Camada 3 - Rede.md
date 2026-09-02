@@ -1,4 +1,8 @@
+# 🗺️ Camada 3: Rede (Network Layer)
+
 **Tags:** #redes #modelo-osi #camada-rede #IP #roteamento #encaminhamento
+
+**Navegação:** [[Modelo OSI (Open Systems Interconnection)|↑ Modelo OSI]] · ← [[Camada 2 - Enlace de Dados]] · [[Camada 4 - Transporte]] →
 
 A Camada de Rede é a "geógrafa" do modelo OSI. Ela é responsável por determinar a melhor rota que os dados devem seguir do ponto de origem ao ponto de destino, atravessando múltiplas redes independentes se necessário. É aqui que o endereçamento lógico substitui o endereçamento físico.
 
@@ -48,3 +52,13 @@ A Camada 3 recebe pedidos da Camada de Transporte (L4) para transportar dados pa
 Para projetos de automação em larga escala, a Camada 3 é onde definimos a segmentação da rede. Em uma planta industrial, é comum usar o roteamento para isolar a **Rede de Controle** (chão de fábrica) da **Rede Corporativa**. 
 
 O uso de sub-redes (Subnetting) e NAT (Network Address Translation) é fundamental aqui para gerenciar dispositivos como CLPs e sensores inteligentes, garantindo que o tráfego pesado de câmeras de monitoramento, por exemplo, não interfira nos pacotes críticos de controle de processos que rodam em IP.
+
+---
+
+## 🔑 Pontos-Chave para Revisão
+- **PDU:** Pacote (Packet) — carrega o endereço IP de origem e destino.
+- Função central: **roteamento** (decide o caminho) + **endereçamento lógico** (IP), diferente do endereçamento físico (MAC) da Camada 2.
+- Pode fragmentar pacotes grandes demais para o MTU do meio físico e remontá-los no destino.
+- Hardware típico: Roteadores e Switches Layer 3 (combinam velocidade de comutação com roteamento).
+- Aplicação industrial: sub-redes (subnetting) + NAT separam a Rede de Controle (chão de fábrica) da Rede Corporativa.
+- **Pergunta de fixação:** por que a Camada 3 é necessária se a Camada 2 já entrega quadros? → Porque a Camada 2 só entrega dentro do mesmo enlace/rede física; a Camada 3 entrega de ponta a ponta, atravessando redes diferentes.

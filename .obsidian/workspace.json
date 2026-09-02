@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad1d73065f02f7a",
+        "id": "53a0edff5f197dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "40ef6ae0636794b7",
+            "id": "7e2ebc5f598f2e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Matemática/Algebra Linear/Autovetores Generalizados e a Forma de Jordan.md",
+                "file": "Course/Computação/Redes/ES900 - Redes e Controle de Processos Industriais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autovetores Generalizados e a Forma de Jordan"
-            }
-          },
-          {
-            "id": "e9911ecc2e5cbb12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex/Circuitikz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Circuitikz"
+              "title": "ES900 - Redes e Controle de Processos Industriais"
             }
           }
         ]
@@ -213,51 +199,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40ef6ae0636794b7",
+  "active": "7e2ebc5f598f2e7a",
   "lastOpenFiles": [
-    "Course/Matemática/Algebra Linear/Autovalores e Autovetores.md",
-    "Ex controlão.md",
-    "Autovetores Generalizados e Forma de Jordan.md",
-    "Course/Matemática/Algebra Linear/Autovetores Generalizados e a Forma de Jordan.md",
-    "Course/Controle e Automação/Controle Avançado/ES728 - Controle Avançado de Sistemas.md",
-    "Latex/Circuitikz.md",
-    "Course/Controle e Automação/Controle Avançado/Matriz de Transição de Estados por Transformação de Similaridade.md",
+    "Course/Computação/Redes/Modelo OSI/Camada 5 - Sessão.md",
+    "Course/Computação/Redes/Modelo OSI/Modelo OSI (Open Systems Interconnection).md",
+    "Course/Computação/Redes/Modelo OSI/Camada 3 - Rede.md",
+    "Course/Computação/Redes/Modelo OSI/Camada 1 - Física.md",
+    "Course/Computação/Redes/Modelo OSI/Camada 6 - Apresentação.md",
+    "Course/Computação/Redes/Modelo OSI/Camada 4 - Transporte.md",
+    "Course/Computação/Redes/Modelo OSI/Camada 2 - Enlace de Dados.md",
+    "Course/Computação/Redes/Modelo OSI/Camada 7 - Aplicação.md",
+    "Course/Fisica/Física Geral 3/F 328 - Física Geral III.md",
+    "contexto.md",
+    "Templates/Template - Disciplina.md",
     "Course/Controle e Automação/Controle Avançado/Matriz de Transição de Estados por método de Vandermonde (Cayley-Hamilton).md",
+    "Course/Economia/Lista 2.md",
+    "Course/Controle e Automação/Controle Avançado/ES728 - Controle Avançado de Sistemas.md",
+    "Excalidraw/Drawing 2026-08-31 22.00.16.excalidraw.md",
+    "Latex/Circuitikz.md",
+    "Course/Computação/Redes/Upgrade de Rede/Home Network Upgrade.md",
+    "Processor/Documentação da Arquitetura (Processador 18 bits).md",
+    "Processor/Arquitecture Diagram.canvas",
+    "Course/Computação/Redes/ES900 - Redes e Controle de Processos Industriais.md",
+    "Course/Computação/Redes/Upgrade de Rede/Teste de internet.md",
+    "Course/Computação/Redes/Upgrade de Rede/Switch.md",
+    "Course/Computação/Redes/Upgrade de Rede/Roteador (Router).md",
+    "Course/Computação/Redes/Upgrade de Rede/ONU (Optical Network Unit).md",
+    "Course/Computação/Redes/Upgrade de Rede/AP (Access Point).md",
+    "IC/Sem título.md",
+    "IC/IC.md",
     "Course/Controle e Automação/Controle Avançado/Livro/Untitled",
-    "Course/Controle e Automação/Controle/ES710 - Controle de Sistemas Mecânicos.md",
-    "Course/Matemática/Algebra Linear/MA327 – Álgebra Linear.md",
     "Course/Controle e Automação/Controle Avançado/Livro/Wiley - Linear State-Space Control Systems.pdf",
     "Course/Controle e Automação/Controle Avançado/Livro/Wiley - Linear State-Space Solution.pdf",
-    "Templates/Template - Disciplina.md",
     "Course/Controle e Automação/Controle Avançado/Livro",
     "Course/Controle e Automação/Controle Avançado",
     "Livro Controle/Feedback control of dynamic_ (z-library.sk, 1lib.sk, z-lib.sk)-1.pdf",
-    "apple academy/Inscrição Apple Academy.md",
     "Livro Controle",
     "Untitled.canvas",
     "apple academy",
     "apple academy/Pasted image 20260727122204.png",
-    "Course/Computação/Redes/Protocolos de Redes/Redes e Protocolos Industriais.md",
-    "Course/Computação/Redes/Protocolos de Redes/CAN e CANopen.md",
-    "Course/Sistemas Produtivos/LISTA DE EXERCÍCIO.md",
     "apple academy/Pasted image 20260727122152.png",
     "apple academy/Pasted image 20260727122126.png",
-    "Untitled 1.md",
-    "README.md",
-    "Course/Sistemas Produtivos/Sistemas produtivos P2.md",
     "Course/Sistemas Produtivos",
-    "Course/Sistemas Produtivos/Teoria das Restrições (TOC) e Sistema OPT.md",
-    "Course/Elétrica/Princípios de Conversão de Energia/Transformador Ideal.md",
-    "Course/Elétrica/Princípios de Conversão de Energia/Transformador Real.md",
-    "IC/Sem título.md",
-    "IC/IC.md",
-    "Course/Computação/Redes/Protocolos de Redes/AS-Interface (AS-i).md",
-    "Course/Computação/Redes/ES900 - Redes e Controle de Processos Industriais.md",
-    "Course/Computação/Redes/Modelo OSI/Modelo OSI (Open Systems Interconnection).md",
     "Latex",
     "Pasted image 20260422214150.png",
     "Course/linguística/Japanese/LA611/Untitled.canvas",
-    "Processor/Arquitecture Diagram.canvas",
     "Imagens/Massa Mola Amortecedor.png",
     "Imagens/Pasted image 20250625103035.png",
     "Imagens/Massa Mola.png",
