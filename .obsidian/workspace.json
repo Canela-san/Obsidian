@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Computação/Redes/ES900 - Redes e Controle de Processos Industriais.md",
+                "file": "Course/Controle e Automação/Controle Avançado/Notas/Plano de Estudos - Lista 1 (Prova 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ES900 - Redes e Controle de Processos Industriais"
+              "title": "Plano de Estudos - Lista 1 (Prova 1)"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Unicamp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +199,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2ebc5f598f2e7a",
+  "active": "cca30ebd4ac953ac",
   "lastOpenFiles": [
+    "2026-09-03.md",
+    "Course/Controle e Automação/Controle Avançado/ES728 - Controle Avançado de Sistemas.md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Resposta no Tempo e Função de Transferência (Espaço de Estados).md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Controlabilidade, Observabilidade e Realização Mínima.md",
+    "Course/Controle e Automação/Controle Avançado/Untitled.md",
+    "Course/Controle e Automação/Controle Avançado/Notas",
+    "Course/Controle e Automação/Controle Avançado/Notas/Espaço de Estados - Modelagem e Representação.md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Formas Canônicas e Transformações.md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Matriz de Transição de Estados por método de Vandermonde (Cayley-Hamilton).md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Formas Quadráticas e Definição de Sinal.md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Matriz de Transição de Estados por Transformação de Similaridade.md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Plano de Estudos - Lista 1 (Prova 1).md",
+    "Course/Controle e Automação/Controle Avançado/Notas/Projeto por Realimentação de Estados (Bass-Gura e Ackermann).md",
+    "Course/Controle e Automação/Controle Avançado/Livros e PDFs/Lista_ES728 (prova 1).pdf",
+    "Course/Computação/Redes/ES900 - Redes e Controle de Processos Industriais.md",
     "Course/Computação/Redes/Modelo OSI/Camada 5 - Sessão.md",
     "Course/Computação/Redes/Modelo OSI/Modelo OSI (Open Systems Interconnection).md",
     "Course/Computação/Redes/Modelo OSI/Camada 3 - Rede.md",
@@ -212,26 +227,13 @@
     "Course/Fisica/Física Geral 3/F 328 - Física Geral III.md",
     "contexto.md",
     "Templates/Template - Disciplina.md",
-    "Course/Controle e Automação/Controle Avançado/Matriz de Transição de Estados por método de Vandermonde (Cayley-Hamilton).md",
     "Course/Economia/Lista 2.md",
-    "Course/Controle e Automação/Controle Avançado/ES728 - Controle Avançado de Sistemas.md",
     "Excalidraw/Drawing 2026-08-31 22.00.16.excalidraw.md",
-    "Latex/Circuitikz.md",
-    "Course/Computação/Redes/Upgrade de Rede/Home Network Upgrade.md",
-    "Processor/Documentação da Arquitetura (Processador 18 bits).md",
     "Processor/Arquitecture Diagram.canvas",
-    "Course/Computação/Redes/ES900 - Redes e Controle de Processos Industriais.md",
-    "Course/Computação/Redes/Upgrade de Rede/Teste de internet.md",
-    "Course/Computação/Redes/Upgrade de Rede/Switch.md",
-    "Course/Computação/Redes/Upgrade de Rede/Roteador (Router).md",
-    "Course/Computação/Redes/Upgrade de Rede/ONU (Optical Network Unit).md",
-    "Course/Computação/Redes/Upgrade de Rede/AP (Access Point).md",
-    "IC/Sem título.md",
-    "IC/IC.md",
     "Course/Controle e Automação/Controle Avançado/Livro/Untitled",
-    "Course/Controle e Automação/Controle Avançado/Livro/Wiley - Linear State-Space Control Systems.pdf",
-    "Course/Controle e Automação/Controle Avançado/Livro/Wiley - Linear State-Space Solution.pdf",
-    "Course/Controle e Automação/Controle Avançado/Livro",
+    "Course/Controle e Automação/Controle Avançado/Livros e PDFs/Wiley - Linear State-Space Control Systems.pdf",
+    "Course/Controle e Automação/Controle Avançado/Livros e PDFs/Wiley - Linear State-Space Solution.pdf",
+    "Course/Controle e Automação/Controle Avançado/Livros e PDFs",
     "Course/Controle e Automação/Controle Avançado",
     "Livro Controle/Feedback control of dynamic_ (z-library.sk, 1lib.sk, z-lib.sk)-1.pdf",
     "Livro Controle",
@@ -240,8 +242,6 @@
     "apple academy/Pasted image 20260727122204.png",
     "apple academy/Pasted image 20260727122152.png",
     "apple academy/Pasted image 20260727122126.png",
-    "Course/Sistemas Produtivos",
-    "Latex",
     "Pasted image 20260422214150.png",
     "Course/linguística/Japanese/LA611/Untitled.canvas",
     "Imagens/Massa Mola Amortecedor.png",
