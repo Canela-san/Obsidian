@@ -2,7 +2,7 @@
 
 **Tags:** #controle-avancado #es728 #plano-de-estudos #prova1
 
-**Navegação:** [[ES728 - Controle Avançado de Sistemas|↑ ES728]]
+**Navegação:** [[ES728 - Controle Avançado de Sistemas|↑ ES728]] · [[Gabarito Comentado - Lista 1 (Prova 1)|Gabarito →]]
 
 Este é o plano de estudos derivado da **Lista de Exercícios** usada como preparação para a Prova 1 (arquivo `Lista_ES728_prova_1.pdf`, 24 exercícios em 8 temas). A lista já resolve os exercícios 1, 3, 4 e 5 como exemplo de método — o restante (a maioria) fica para praticar sozinho. As notas de referência abaixo usam **exemplos genéricos diferentes** dos exercícios da lista de propósito: a ideia é você aprender o método na nota e aplicá-lo você mesmo na lista, não colar a resposta.
 
@@ -10,16 +10,16 @@ Este é o plano de estudos derivado da **Lista de Exercícios** usada como prepa
 
 ## 🗺️ Visão Geral: Tema → Exercícios → Nota de Referência
 
-| #   | Tema                                                         | Exercícios | Nota de referência                                                                                                                                    | Estudado? |
-| --- | ------------------------------------------------------------ | :--------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
-| 1   | Autovalores, autovetores e forma de Jordan                   |  1, 2, 3   | [[Autovalores e Autovetores]] · [[Autovetores Generalizados e a Forma de Jordan]]                                                                     |    [ ]    |
-| 2   | Matriz de transição de estados ($e^{At}$) e Cayley-Hamilton  |    4, 5    | [[Matriz de Transição de Estados por método de Vandermonde (Cayley-Hamilton)]] · [[Matriz de Transição de Estados por Transformação de Similaridade]] |    [ ]    |
-| 3   | Modelagem e representação em espaço de estados               |  6, 7, 8   | [[Espaço de Estados - Modelagem e Representação]]                                                                                                     |    [ ]    |
-| 4   | Resposta no tempo e função de transferência                  | 9, 10, 11  | [[Resposta no Tempo e Função de Transferência (Espaço de Estados)]]                                                                                   |    [ ]    |
-| 5   | Formas quadráticas e definição de sinal                      |     12     | [[Formas Quadráticas e Definição de Sinal]]                                                                                                           |    [ ]    |
-| 6   | Controlabilidade, observabilidade e realização mínima        |   13–18    | [[Controlabilidade, Observabilidade e Realização Mínima]]                                                                                             |    [ ]    |
-| 7   | Formas canônicas e transformações                            | 19, 20, 21 | [[Formas Canônicas e Transformações]]                                                                                                                 |    [ ]    |
-| 8   | Projeto por realimentação de estados (Bass-Gura e Ackermann) | 22, 23, 24 | [[Projeto por Realimentação de Estados (Bass-Gura e Ackermann)]]                                                                                      |    [ ]    |
+| # | Tema | Exercícios | Nota de referência | Estudado? |
+|---|------|:---:|---|:---:|
+| 1 | Autovalores, autovetores e forma de Jordan | 1, 2, 3 | [[Autovalores e Autovetores]] · [[Autovetores Generalizados e a Forma de Jordan]] | [ ] |
+| 2 | Matriz de transição de estados ($e^{At}$) e Cayley-Hamilton | 4, 5 | [[Matriz de Transição de Estados por método de Vandermonde (Cayley-Hamilton)]] · [[Matriz de Transição de Estados por Transformação de Similaridade]] | [ ] |
+| 3 | Modelagem e representação em espaço de estados | 6, 7, 8 | [[Espaço de Estados - Modelagem e Representação]] | [ ] |
+| 4 | Resposta no tempo e função de transferência | 9, 10, 11 | [[Resposta no Tempo e Função de Transferência (Espaço de Estados)]] | [ ] |
+| 5 | Formas quadráticas e definição de sinal | 12 | [[Formas Quadráticas e Definição de Sinal]] | [ ] |
+| 6 | Controlabilidade, observabilidade e realização mínima | 13–18 | [[Controlabilidade, Observabilidade e Realização Mínima]] | [ ] |
+| 7 | Formas canônicas e transformações | 19, 20, 21 | [[Formas Canônicas e Transformações]] | [ ] |
+| 8 | Projeto por realimentação de estados (Bass-Gura e Ackermann) | 22, 23, 24 | [[Projeto por Realimentação de Estados (Bass-Gura e Ackermann)]] | [ ] |
 
 > [!info] Por que essa ordem?
 > A ordem da própria lista já é a ordem de dependência certa: autovalores/Jordan → $e^{At}$ (que se apoia em autovalores) → modelagem em espaço de estados → resposta temporal e função de transferência (que se apoiam na modelagem e no $e^{At}$) → formas quadráticas (independente, mas curta) → controlabilidade/observabilidade → formas canônicas (que se apoiam em controlabilidade/observabilidade) → realimentação de estados/Bass-Gura-Ackermann (que se apoia em formas canônicas). Não pule tema 6 e 7 antes do 8 — a fórmula de Bass-Gura *é*, literalmente, a transformação para forma canônica controlável do tema 7.

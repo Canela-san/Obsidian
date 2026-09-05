@@ -31,7 +31,7 @@ Pré Requisitos:
 - [ ] Projeto por realimentação de estados (Bass-Gura e Ackermann) → [[Projeto por Realimentação de Estados (Bass-Gura e Ackermann)]]
 
 > [!tip] Plano de estudos
-> A sequência acima já está na ordem de dependência (cada tópico usa o anterior). O passo a passo, exercício por exercício, está em [[Plano de Estudos - Lista 1 (Prova 1)]].
+> A sequência acima já está na ordem de dependência (cada tópico usa o anterior). O passo a passo, exercício por exercício, está em [[Plano de Estudos - Lista 1 (Prova 1)]]. Para conferir as respostas depois de tentar sozinho, ver [[Gabarito Comentado - Lista 1 (Prova 1)]].
 
 ### 📚 Restante da ementa (ainda não estudado / provas seguintes)
 - [ ] Projeto de rastreadores
